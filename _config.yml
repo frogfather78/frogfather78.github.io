@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: another frogfather blog
+description: based on a template on [fast.ai](https://www.fast.ai/2020/01/16/fast_template/)  ❤
+github_username: frogfather78
 
 # Email and twitter are optional:
 email: 
-twitter_username: 
+twitter_username: frogfather
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
