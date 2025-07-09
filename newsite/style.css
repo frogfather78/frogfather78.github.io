@@ -4,19 +4,47 @@ body {
 
 
 p {
-    font-family: sans-serif;
+    font-family: 'garogierregular', sans-serif;
     font-size: 1.1rem;
 }
 
 h1 {
+    font-family: 'garogierregular';
     font-size: 3.5rem;
 }
 
 .main_page {
     max-width: 70%;
     margin-left: 50px;
+    padding: 10px;
 }
 
+.banner {
+max-width: 100%;
+
+}
+
+.bumper {
+float: left;
+width: 5%;
+min-height:300px;
+background-color: darkseagreen;
+
+}
+
+
+@font-face {
+    font-family: 'garogierregular';
+    src: url('Garogier-webfont.eot');
+    src: url('Garogier-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Garogier-webfont.woff2') format('woff2'),
+         url('Garogier-webfont.woff') format('woff'),
+         url('Garogier-webfont.ttf') format('truetype'),
+         url('Garogier-webfont.svg#garogierregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 .menu-bar {
     margin: 2rem;
