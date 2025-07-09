@@ -3,7 +3,7 @@ body {
 }
 
 
-p {
+p, li {
     font-family: 'garogierregular', sans-serif;
     font-size: 1.1rem;
 }
@@ -57,10 +57,11 @@ background-color: darkseagreen;
         padding-top: 0px;
         padding-right: 10px;
         padding-bottom: 0px;
-
+        font-family: garogierregular;
     }
 
-    a {text-decoration: none;}
+    a {text-decoration: none;
+    color:black;}
 
 }
 
